@@ -1,6 +1,6 @@
 package day38_Inheritance.carTask;
 
-public class car {
+public class Car {
 
     public String brand, model;
     public int year;
@@ -8,7 +8,7 @@ public class car {
     public String color;
     public int miles;
 
-    public car(String brand, String model, int year, double price, String color, int miles) {
+    public Car(String brand, String model, int year, double price, String color, int miles) {
         this.brand = brand;
         this.model = model;
         this.year = year;
