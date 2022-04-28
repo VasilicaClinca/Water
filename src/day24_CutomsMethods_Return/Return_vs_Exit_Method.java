@@ -1,6 +1,6 @@
 package day24_CutomsMethods_Return;
 
-public class Teturn_vs_Exit_Method {
+public class Return_vs_Exit_Method {
 
     public static void main(String[] args) {
 
